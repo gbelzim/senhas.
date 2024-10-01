@@ -24,9 +24,9 @@ export const perguntas = [
         enunciado: "Ficar frente a frente com ele é bem amedrontador, 100kg de pura tecnologia em um corpo de um homem como é possivel?. Qual atitude você toma?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "é.",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
+                    "é.",
                     "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
                     "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
                 ],
