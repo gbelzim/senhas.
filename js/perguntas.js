@@ -98,7 +98,7 @@ export const perguntas = [
                 texto: "Usar dispositivos de hack para desativá-los!",
                 afirmacao: [
                     "Você usou seus dispositivos de hack para desativar os drones remotamente.",
-                    "Uma abordagem mais técnica que pode ser mais segura do que um confronto direto."
+                    "Uma abordagem mais técnica que pode ser mais segura do que bater de frente com ele."
                 ],
                 proxima: 10,
             },
