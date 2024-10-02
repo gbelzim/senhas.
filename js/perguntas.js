@@ -68,7 +68,7 @@ export const perguntas = [
             {
                 texto: "Usar uma rota de fuga pré-planejada!",
                 afirmacao: [
-                    "Como parte do seu plano, você já tinha mapeado a instalação e sabia exatamente para onde ir.",
+                    "Como parte do seu plano, você já tinha mapeado a instalação e sabia exatamente para onde ir, VOCE FUGIU COM SUCESSO.",
                     "Sua preparação pode ser o o que vai decidiar o seu destino  entre a vida e a morte."
                 ],
                 proxima: 7,
@@ -90,7 +90,7 @@ export const perguntas = [
                 texto: "atirar nos drones!",
                 afirmacao: [
                     "Você decidiu enfrentar os drones com fogo pesado, tentando derrubar eles antes que eles te peguem.",
-                    "É um confronto direto, mas pode ser necessário para garantir sua sobrevivência."
+                    "É um confronto direto, mas pode ser necessário para garantir sua sobrevivência, fugiu com SUCESSO."
                 ],
                 proxima: 9,
             },
