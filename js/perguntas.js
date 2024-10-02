@@ -5,8 +5,8 @@ export const perguntas = [
             {
                 texto: "Sacar uma arma e apontar para ele!",
                 afirmacao: [
-                    "Você sentiu o medo tomando conta e decidiu agir rapidamente, sacando sua arma para intimidá-lo.",
-                    "O pensamento de enfrentar uma máquina tão poderosa o fez agir de forma impulsiva."
+                    "Você sentiu o medo tomando conta e decidiu agir rapidamente, sacando sua arma para intimidar ele.",
+                    "O pensamento de enfrentar uma máquina tão poderosa o fez agir de forma impulsiva e imprudente."
                 ],
                 proxima: 1,
             },
@@ -77,7 +77,7 @@ export const perguntas = [
                 texto: "Roubar um helicoptero e escapar pelos ares!",
                 afirmacao: [
                     "Você decidiu ir no tudo ou nada, roubando um dos veículos de segurança da instalação e tentando escapar voando.",
-                    "Um movimento amostradinho, mas pode ser o que vai garantir sua fuga."
+                    "Um movimento amostradinho, o que resultou em uma morte tragica."
                 ],
                 proxima: 8,
             },
