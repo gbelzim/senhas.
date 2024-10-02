@@ -56,7 +56,7 @@ export const perguntas = [
                 texto: "Arriscar uma extração rápida durante o combate!",
                 afirmacao: [
                     "Você decidiu correr o risco e tentar extrair o chip enquanto luta com ele.",
-                    "talvez seja uma jogada arriscada mas pode poupar tempo e impedir que ele chame ajuda."
+                    "talvez tenha sido uma jogada arriscada mas ajudou a poupar tempo e impedir que ele chame ajuda."
                 ],
                 proxima: 6,
             },
