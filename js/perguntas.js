@@ -13,26 +13,26 @@ export const perguntas = [
             {
                 texto: "Esperar o momento certo para atacar!",
                 afirmacao: [
-                    "Você manteve a calma e analisou a situação, esperando o momento perfeito para atacar.",
-                    "Sua paciência pode ser a chave para pegar Don Dalpd0z de surpresa."
+                    "Você manteve a calma e analisou a situação, esperando o momento perfeito para atacar e agir.",
+                    "Sua paciência pode ser a chave para conseguir o chip do Don Dalpd0z sem ele perceber."
                 ],
                 proxima: 2,
             },
         ]
     },
     {
-        enunciado: "Agora que você está frente a frente com o ciborgue, ele parece mais perigoso do que você imaginava. 100kg de pura tecnologia avançada. O que você faz?",
+        enunciado: "Agora que você está frente a frente com ele, ele parece mais perigoso do que você imaginava. 100kg de pura tecnologia avançada. O que você faz?",
         alternativas: [
             {
                 texto: "Atacar diretamente com uma arma!",
                 afirmacao: [
                     "Você decidiu partir para o confronto, sacando sua arma e atirando antes que ele possa reagir.",
-                    "A decisão foi ousada, mas perigosa. Agora, é tudo ou nada!"
+                    "A decisão foi amostradinha, mas perigosa. Agora, é tudo ou nada!"
                 ],
                 proxima: 3,
             },
             {
-                texto: "Tentar hackear o sistema dele à distância!",
+                texto: "Tentar hackear o sistema dele à distância, graças as novas tecnologias!",
                 afirmacao: [
                     "Optou por uma abordagem mais estratégica, tentando acessar o sistema do ciborgue e desativá-lo antes que ele perceba.",
                     "Se o hack for bem-sucedido, você poderá evitar um confronto direto."
@@ -42,12 +42,12 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Durante o confronto, você percebe que o chip está integrado ao cérebro dele. Como você pretende extrair o chip?",
+        enunciado: "Durante o confronto, você percebe que o chip está preso ao cérebro dele. Como você pretende tirar o chip?",
         alternativas: [
             {
-                texto: "Desativar o ciborgue e fazer a extração com cuidado!",
+                texto: "Desativar o ciborgue e retirar com cuidado!",
                 afirmacao: [
-                    "Sua estratégia é desativá-lo temporariamente e fazer a extração sem causar danos irreparáveis.",
+                    "Sua estratégia é desativar ele por um tempo e fazer a extração sem matar ele.",
                     "É uma abordagem mais técnica, que exige precisão."
                 ],
                 proxima: 5,
@@ -56,46 +56,46 @@ export const perguntas = [
                 texto: "Arriscar uma extração rápida durante o combate!",
                 afirmacao: [
                     "Você decidiu correr o risco e tentar extrair o chip enquanto luta com ele.",
-                    "Embora seja uma jogada arriscada, pode poupar tempo e impedir que ele reaja."
+                    "talvez seja uma jogada arriscada mas pode poupar tempo e impedir que ele chame ajuda."
                 ],
                 proxima: 6,
             },
         ]
     },
     {
-        enunciado: "Você conseguiu o chip, mas os alarmes da instalação começam a soar. Como você planeja escapar?",
+        enunciado: "Você conseguiu o chip, mas os alarmes da instalação começam a tocar. Como você irá escapar?",
         alternativas: [
             {
                 texto: "Usar uma rota de fuga pré-planejada!",
                 afirmacao: [
                     "Como parte do seu plano, você já tinha mapeado a instalação e sabia exatamente para onde ir.",
-                    "Sua preparação pode ser o diferencial entre a vida e a morte."
+                    "Sua preparação pode ser o o que vai decidiar o seu destino  entre a vida e a morte."
                 ],
                 proxima: 7,
             },
             {
-                texto: "Roubar um veículo e escapar pelos ares!",
+                texto: "Roubar um helicoptero e escapar pelos ares!",
                 afirmacao: [
-                    "Você decidiu improvisar, roubando um dos veículos de segurança da instalação e tentando escapar voando.",
-                    "Um movimento ousado, mas pode ser o que vai garantir sua fuga."
+                    "Você decidiu ir no tudo ou nada, roubando um dos veículos de segurança da instalação e tentando escapar voando.",
+                    "Um movimento amostradinho, mas pode ser o que vai garantir sua fuga."
                 ],
                 proxima: 8,
             },
         ]
     },
     {
-        enunciado: "Você está quase fora da instalação, mas os drones de segurança estão atrás de você. Como você lida com eles?",
+        enunciado: "Você está quase fora da instalação, mas os drones de segurança com armas estão atrás de você. Como você lida com eles?",
         alternativas: [
             {
-                texto: "Disparar contra os drones!",
+                texto: "atirar nos drones!",
                 afirmacao: [
-                    "Você decidiu enfrentar os drones com fogo pesado, tentando derrubá-los antes que eles o alcancem.",
+                    "Você decidiu enfrentar os drones com fogo pesado, tentando derrubar eles antes que eles te peguem.",
                     "É um confronto direto, mas pode ser necessário para garantir sua sobrevivência."
                 ],
                 proxima: 9,
             },
             {
-                texto: "Usar dispositivos de hack para desativá-los!",
+                texto: "Usar dispositivos de hack para desabilatar o sistema deles!",
                 afirmacao: [
                     "Você usou seus dispositivos de hack para desativar os drones remotamente.",
                     "Uma abordagem mais técnica que pode ser mais segura do que um confronto direto."
