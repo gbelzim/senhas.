@@ -55,7 +55,7 @@ export const perguntas = [
             {
                 texto: "Arriscar uma extração rápida durante o combate!",
                 afirmacao: [
-                    "Você decidiu correr o risco e tentar extrair o chip enquanto luta com ele.",
+                    "Você decidiu correr o risco e tentar extrair o chip enquanto luta com ele, SUCESSO.",
                     "talvez tenha sido uma jogada arriscada mas ajudou a poupar tempo e impedir que ele chame ajuda."
                 ],
                 proxima: 6,
@@ -69,7 +69,7 @@ export const perguntas = [
                 texto: "Usar uma rota de fuga pré-planejada!",
                 afirmacao: [
                     "Como parte do seu plano, você já tinha mapeado a instalação e sabia exatamente para onde ir, VOCE FUGIU COM SUCESSO.",
-                    "Sua preparação pode ser o o que vai decidiar o seu destino  entre a vida e a morte."
+                    "Sua preparação pode ser o o que vai decidir o seu destino  entre a vida e a morte, ."
                 ],
                 proxima: 7,
             },
